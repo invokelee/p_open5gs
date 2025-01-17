@@ -16,7 +16,7 @@ ICT Innovation Square
 
 Network mode : NAT \+ Host\-Only Network
 
-<img src="doc/img/Ex-open5gs-report-LeeSangHoon_1.png" width="50%">
+<img src="doc/img/5g-network-overview.png" width="50%">
 
 <img src="doc/img/Ex-open5gs-report-LeeSangHoon_2.png" width="50%">
 
