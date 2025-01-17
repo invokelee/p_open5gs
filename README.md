@@ -10,13 +10,13 @@ ICT Innovation Square
 
 <span style="color:#222222"> __Open5GS \+ UERANSIM 5G __ </span>  <span style="color:#222222"> __Network__ </span>  <span style="color:#222222"> __ __ </span>  <span style="color:#222222"> __Overview__ </span>
 
-<img src="doc/img/Ex-open5gs-report-LeeSangHoon_0.png" width="100%">
+<img src="doc/img/5g-network-overview.png" width="100%">
 
 ## Network Configuration
 
 Network mode : NAT \+ Host\-Only Network
 
-<img src="doc/img/5g-network-overview.png" width="50%">
+<img src="doc/img/Ex-open5gs-report-LeeSangHoon_1.png" width="50%">
 
 <img src="doc/img/Ex-open5gs-report-LeeSangHoon_2.png" width="50%">
 
